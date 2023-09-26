@@ -17,7 +17,7 @@ Codewars solutions challenges using Typescript.
 
 | Name | Description |
 | ---- | ----------- |
-| 8kyu | 0           |
-| 7kyu | 0           |
-| 6kyu | 0           |
+| 8kyu | 5           |
+| 7kyu | 1           |
+| 6kyu | 5           |
 | 5kyu | 0           |
